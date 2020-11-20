@@ -1,0 +1,1 @@
+# iOBroker.circadianlighting
